@@ -1,0 +1,17 @@
+{
+  "name": "webdriverio-code",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "npx wdio.conf.js"
+  },
+  "keywords": [],
+  "author": "omprakash",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^6.6.4",
+    "@wdio/selenium-standalone-service": "6.12.1",
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
